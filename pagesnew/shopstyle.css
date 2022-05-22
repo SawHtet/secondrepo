@@ -1,0 +1,108 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+nav{
+	background-color: black;
+	text-align: center;
+
+}
+nav a{
+	text-decoration: none;
+	display: inline-block;
+	padding: 20px;
+	margin: 0px 50px;
+	font-size: 20px;
+	color: white;
+}
+/*this is for indexnew.html*/
+.pc{
+	padding: 0% 3.5%;
+
+}
+.two{
+	text-align: center;
+	padding-top: 20px;
+}
+.row{
+	100%
+}
+[class*="col-"]{
+	float: left;
+}
+.new{
+	width: 75%;
+	height: 250px;
+	margin: 10px;
+
+}
+
+.bone,.btwo{
+	text-align: center;
+	padding: 0% 12.5%;
+	margin: 30px auto;
+}
+#pan{
+	margin: 15px 0px;
+	background-color: red;
+}
+span{
+	background-color: black;
+	color: white;
+	font-size: 20px;
+	padding: 5px 20px 5px 20px;
+
+
+}
+.sneaker{
+	width: 80%;
+	height: 300px;
+	text-align: center;
+	padding: 0% 10%;
+	margin: 25px 0px;
+	
+}
+.foot{
+	text-align: center;
+	font-weight: bold;
+	padding: 15px 0px;
+}
+/*this is for item.html*/
+
+
+.col-1{
+	width: 8.33%;
+}
+.col-2{
+	width: 16.66%;
+}
+.col-3{
+	width: 25%;
+}
+.col-4{
+	width: 33.33%;
+}
+.col-5{
+	width: 41.66%;
+}
+.col-6{
+	width: 50%;
+}
+.col-7{
+	width: 58.33%;
+}
+.col-8{
+	width: 66.66%;
+}
+.col-9{
+	width: 75%;
+}
+.col-10{
+	width: 83.33%;
+}
+.col-11{
+	width: 91%;
+}
+.col-12{
+	width: 100%;
+}
